@@ -1,9 +1,10 @@
-# music_list_html
-Music_ist website template
-## 注意事项
-- 本歌单可自由使用，使用时记得替换static\image下的背景图片。
-- 纯前端，没有后端。
-- 一定要看index.html里面的注释！！！写的不好，但是要认真看。
-- 带有自适应部分
-## 作者
+# music_list_html  
+Music_ist website template  
+[中文](./zh/readme.md)
+## matters needing attention
+- This song list can be used freely. Remember to replace the background picture under “.\static\image\” when using it.
+- Pure front end, no back end.
+- Be sure to read the comments in index.html!!! The writing is not good, but you should read it carefully.
+- Adaptive part with icon
+## author
 VUPACG
