@@ -1,6 +1,6 @@
 # music_list_html  
 Music_ist website template  
-[中文](./zh/readme.md)
+[zh/CN  中文](./zh/readme.md)
 ## matters needing attention
 - This song list can be used freely. Remember to replace the background picture under “.\static\image\” when using it.
 - Pure front end, no back end.
